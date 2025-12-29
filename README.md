@@ -76,4 +76,4 @@ The system works in the following stages:
 ## 🚀 How to Run the Project
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone [https://github.com/Asish2222/ML-Powere-Assistive-Technology.git]
